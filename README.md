@@ -1,1 +1,1 @@
-# CS3354-PureEats
+# Team Name: PureEats
